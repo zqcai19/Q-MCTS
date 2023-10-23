@@ -1,5 +1,5 @@
 # Q-MCTS
-This repository contains the code for paper, Recognizing Good Variational Quantum Circuits with Monte Carlo Tree Search
+This repository contains the code for paper, Recognizing Good Variational Quantum Circuits with Monte Carlo Tree Search.
 ```
 requirements:
 
