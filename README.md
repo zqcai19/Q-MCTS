@@ -8,7 +8,7 @@ scikit-learn == 1.1.1
 pytorch == 2.0.1
 pennylane == 0.30.0
 
-different package versions may produce inconsistent results
+different package versions may produce inconsistent results.
 ```
 To reproduce the results of the discovered hybrid fusion network which achieves MAE of 1.138 on MOSI dataset, run ```schemes.py``` in the folder ```best_vqc```.
 
