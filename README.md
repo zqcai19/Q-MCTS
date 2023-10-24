@@ -1,12 +1,14 @@
 # Q-MCTS
 This repository contains the code for paper, Recognizing Good Variational Quantum Circuits with Monte Carlo Tree Search.
 ```
-requirements:
+dependencies we use in experiments:
 
-numpy
-scikit-learn
-pytorch
-pennylane
+numpy == 1.21.5
+scikit-learn == 1.1.1
+pytorch == 2.0.1
+pennylane == 0.30.0
+
+different package versions may produce inconsistent results
 ```
 To reproduce the results of the discovered hybrid fusion network which achieves MAE of 1.138 on MOSI dataset, run ```schemes.py``` in the folder ```best_vqc```.
 
